@@ -14,7 +14,7 @@ function SearchBar({ onSearch }) {
         type="text"
         value={term}
         onChange={handleChange}
-        placeholder="Search by name"
+        placeholder="Search by name, email, or phone"
       />
     </div>
   );
