@@ -2,7 +2,6 @@
 
 A simple React application that demonstrates fetching user data from a public API, displaying it, and allowing users to interact with the data. The application includes features such as searching, pagination, and handling loading and error states.
 
-![User Directory App](https://hrcdn.net/s3_pub/istreet-assets/YkVzgbGgMj0cfT9P97s8jg/sorting-articles.gif)
 
 ## Features
 
