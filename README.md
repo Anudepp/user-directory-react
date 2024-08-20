@@ -3,6 +3,9 @@
 A simple React application that demonstrates fetching user data from a public API, displaying it, and allowing users to interact with the data. The application includes features such as searching, pagination, and handling loading and error states.
 
 
+<img width="1332" alt="Screenshot 2024-08-20 at 4 25 47 PM" src="https://github.com/user-attachments/assets/ce14daf9-79ea-4079-9941-4f3fee1450d5">
+
+
 ## Features
 
 - **Data Fetching**: Retrieves user data from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/users).
